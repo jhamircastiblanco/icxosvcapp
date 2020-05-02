@@ -24,5 +24,18 @@
             "StackId": "arn:aws:cloudformation:us-east-2:192019918181:stack/amplify-icxosvcapp-master-115947/56bde510-8c96-11ea-a372-0a3121d24df0",
             "AmplifyAppId": "d1la3q4zblz8eq"
         }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-icxosvcapp-dev-124230-authRole",
+            "UnauthRoleArn": "arn:aws:iam::192019918181:role/amplify-icxosvcapp-dev-124230-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::192019918181:role/amplify-icxosvcapp-dev-124230-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-icxosvcapp-dev-124230-deployment",
+            "UnauthRoleName": "amplify-icxosvcapp-dev-124230-unauthRole",
+            "StackName": "amplify-icxosvcapp-dev-124230",
+            "StackId": "arn:aws:cloudformation:us-east-2:192019918181:stack/amplify-icxosvcapp-dev-124230/4e9a18d0-8c9c-11ea-b16d-0af659736e02",
+            "AmplifyAppId": "d1la3q4zblz8eq"
+        }
     }
 }
