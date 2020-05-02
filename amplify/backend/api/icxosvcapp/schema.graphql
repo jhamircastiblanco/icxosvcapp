@@ -1,0 +1,5 @@
+type OSvCApp @model {
+  id: ID!
+  name: String!
+  description: String
+}
